@@ -4,6 +4,7 @@ import tensorflow as tf
 from sklearn.preprocessing import StandardScaler, LabelEncoder, OneHotEncoder
 import pandas as pd
 import pickle
+import os
 
 # Page configuration
 st.set_page_config(
@@ -57,16 +58,16 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Load the trained model
-model = tf.keras.models.load_model('model.h5')
+model = tf.keras.models.load_model('notebooks/models/model.h5')
 
 # Load the encoders and scaler
-with open('label_encoder_gender.pkl', 'rb') as file:
+with open('notebooks/models/preprocessors/label_encoder_gender.pkl', 'rb') as file:
     label_encoder_gender = pickle.load(file)
 
-with open('onehot_encoder_geo.pkl', 'rb') as file:
+with open('notebooks/models/preprocessors/onehot_encoder_geo.pkl', 'rb') as file:
     onehot_encoder_geo = pickle.load(file)
 
-with open('scaler.pkl', 'rb') as file:
+with open('notebooks/models/preprocessors/scaler.pkl', 'rb') as file:
     scaler = pickle.load(file)
 
 # Header
