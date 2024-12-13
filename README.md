@@ -40,8 +40,9 @@ conda activate ./venv
 ```
 
 ### Install dependencies
-
+```bash
 pip install -r requirements.txt
+```
 
 ### Run the application
 streamlit run app.py
