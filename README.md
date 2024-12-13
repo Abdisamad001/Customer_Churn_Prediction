@@ -34,9 +34,10 @@ git clone https://github.com/Abdisamad001/Customer_Churn_Prediction.git
 cd bank-churn-predictor
 ```
 
-### Create and activate virtual environment (recommended)
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+### Create and activate virtual environment
+```bash
+conda activate ./venv
+```
 
 ### Install dependencies
 
