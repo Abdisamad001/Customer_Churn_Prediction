@@ -1,4 +1,4 @@
-# 🎭 Review Sentiment Analysis
+# 🏦 Customer Churn Prediction
 
 > Bank customer churn prediction using machine learning models to identify at-risk customers.
 
