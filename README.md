@@ -20,12 +20,12 @@
 
 ```txt
 tensorflow==2.15.0
-pandas
-numpy
-scikit-learn
-tensorboard
-matplotlib
-streamlit
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.6.0
+tensorboard==2.15.2
+matplotlib==3.9.4
+streamlit==1.41.0
 ```
 ### 🚀 Installation
 #### Clone the repository
