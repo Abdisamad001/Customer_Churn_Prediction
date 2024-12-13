@@ -3,9 +3,9 @@
 > Bank customer churn prediction using machine learning models to identify at-risk customers.
 
 <div align="center">
-  <img src="./assets/Dashboard Preview 1.png" alt="Dashboard Preview 1" width="800"/>
+  <img src="./asset/Dashboard Preview 1.png" alt="Dashboard Preview 1" width="800"/>
   <br/>
-  <img src="./assets/Dashboard Preview 2.png" alt="Dashboard Preview 2" width="800"/>
+  <img src="./asset/Dashboard Preview 2.png" alt="Dashboard Preview 2" width="800"/>
 </div>
 
 ## ✨ Key Features
