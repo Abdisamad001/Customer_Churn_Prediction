@@ -67,10 +67,10 @@ Low Risk Customer:
 ### 🛠️ Technology Stack
 - **Frontend**: Streamlit
 - **Backend**: Python
--**Deep Learning**: TensorFlow
--**Data Processing**: Pandas, NumPy
--**ML Framework**: Scikit-learn
--**Visualization**: Matplotlib, TensorBoard
+- **Deep Learning**: TensorFlow
+- **Data Processing**: Pandas, NumPy
+- **ML Framework**: Scikit-learn
+- **Visualization**: Matplotlib, TensorBoard
 
 
 ### 🤝 Contributing
