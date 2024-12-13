@@ -19,7 +19,7 @@
 ## 📦 Requirements
 
 ```txt
-tensorflow==2.15.0
+tensorflow==2.16.1
 pandas==2.2.3
 numpy==1.26.4
 scikit-learn==1.6.0
