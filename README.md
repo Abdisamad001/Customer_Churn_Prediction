@@ -10,11 +10,11 @@
 
 ## ✨ Key Features
 
-- 🎯 **Real-time Prediction** - Instant churn probability calculation
-- 📊 **Risk Assessment** - Clear visualization of churn risk levels 
-- 💡 **Retention Strategies** - Automated recommendations based on risk factors
-- 📱 **User-Friendly Interface** - Easy-to-use input controls
-- 🔄 **Interactive Testing** - Quick load of high/low risk scenarios
+-  **Real-time Prediction** - Instant churn probability calculation
+-  **Risk Assessment** - Clear visualization of churn risk levels 
+-  **Retention Strategies** - Automated recommendations based on risk factors
+-  **User-Friendly Interface** - Easy-to-use input controls
+-  **Interactive Testing** - Quick load of high/low risk scenarios
 
 ## 📦 Requirements
 
